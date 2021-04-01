@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
-<img src="Login.png" width="60%" height="60%" border-radius: 90%>
+<img src="screen.png" width="60%" height="60%" border-radius: 90%>
 </p>
 
 Simple Snake game in Python
